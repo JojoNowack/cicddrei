@@ -29,8 +29,8 @@ jobs:
         # npm run e2e -- --protractor-config=e2e/protractor-ci.conf.js --webdriver-update=false
         ####
         
-        git config --global user.email "Jojo@mail.com"
-        git config --global user.name "Jojodrei"
+        #git config --global user.email "Jojo@mail.com"
+        #git config --global user.name "Jojodrei"
         
         #npm run ng build --base-href="https://jojonowack.github.io/AngularTest/"
 
