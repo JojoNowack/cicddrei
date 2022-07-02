@@ -35,4 +35,4 @@ jobs:
         #npm run ng build --base-href="https://jojonowack.github.io/AngularTest/"
 
         #npx angular-cli-ghpages --dir=dist/cicd-test-project --no-silent
-        npm run ng deploy --base-href=/cicddrei/ --name="jojodreijetzt" --email=mymail@mail.org --no-silent
+        npm run ng deploy --base-href=https://jojonowack.github.io/cicddrei/ --name="jojodreijetzt" --email=mymail@mail.org --no-silent
